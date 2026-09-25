@@ -5,3 +5,6 @@ langchain-openai
 langchain-anthropic
 pydantic
 python-dotenv
+langchain-community
+pypdf
+huggingface_hub
